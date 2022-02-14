@@ -1,0 +1,4 @@
+static int PokemonMaster(int A, int B){
+int s=(A>=B)?1:0;
+    return s;
+}
